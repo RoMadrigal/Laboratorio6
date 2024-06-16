@@ -36,7 +36,7 @@ int main() {
     printf("Peek: %d\n", peek(stack));
 
 
-    printf("El stack esta vacio? %d\n");
+    printf("El stack esta vacio?\n");
 
     if (isEmpty(stack)) {
         printf("El Stack si esta vacio\n");
